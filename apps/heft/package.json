@@ -48,7 +48,7 @@
     "glob-escape": "~0.0.2",
     "jest-snapshot": "~25.4.0",
     "node-sass": "5.0.0",
-    "postcss": "7.0.32",
+    "postcss": "8.4.31",
     "postcss-modules": "~1.5.0",
     "prettier": "~2.1.1",
     "semver": "~7.3.0",
